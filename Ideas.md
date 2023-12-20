@@ -1,0 +1,63 @@
+- Artic
+	- Starts non-snowy, but snows later on
+- Sun stops rising
+	- Causes collapse of kingdom
+- PCs attempt to secure local region
+	- Various factions trying to rule it
+- Winter is coming
+	- Starts at end of summer, on day when sun is supposed to rise from 6-month night
+- Set in the northern part of the empire of Daros
+	- Capital city to the south
+- Province: The North March
+	- Distant northern region
+	- Various regions:
+		- Forest
+		- Mountains (on south, west, and east)
+		- Ice sheet
+	- Capital town: Vajalharn
+		- Walled
+		- Has castle
+	- Various villages scattered around
+		- Hardstone
+			- Western mining village in mountains
+		- Port Henefel
+			- Fishing village on northern shore
+		- Jordel's Hold
+			- Farming village
+			- Near an abandoned castle
+				- Named after the castle
+		- Lake Varneir
+			- Farming village on a lake
+		- Eastpath
+			- Eastern farming village at foothills of mountains
+			- Base of paths leading into mountains
+	- People called Marchers
+- Race Options:
+	- Native:
+		- Human (also from elsewhere in the empire)
+		- Orc
+		- Half-Orc
+		- Goliath
+	- From elsewhere in the empire:
+		- Elf
+		- Half-Elf
+		- Kalashtar
+			- Quori replaced with choice of Celestial, Infernal, or Deep Speech
+		- Hobgoblin
+		- Other uncommon races
+- Factions:
+	- Imperial government
+		- Led by marquess of Vajalharn
+	- Rebels
+		- Led by upstart village leader in Lake Varneir
+	- Bandits
+		- Scattered throughout woods
+	- Mindflayer
+		- In caverns by Hardstone
+		- Attempting to control Hardstone populace
+	- Dragon
+		- In mountains east of Eastpath, but hunts throughout eastern part of region
+	- Star Spawn
+		- Hidden in Jordel's Hold
+	- Aboleth
+		- In water north of Henefel

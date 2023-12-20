@@ -1,0 +1,26 @@
+{
+  "statusBar": [
+    {
+      "prefix": "",
+      "suffix": " total words",
+      "metric": {
+        "type": 2,
+        "counter": 0
+      }
+    }
+  ],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": "total words",
+      "metric": {
+        "type": 2,
+        "counter": 0
+      }
+    }
+  ],
+  "countComments": false,
+  "collectStats": true,
+  "displaySectionCounts": false,
+  "pageWords": 300
+}
