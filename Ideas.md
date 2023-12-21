@@ -14,21 +14,21 @@
 		- Forest
 		- Mountains (on south, west, and east)
 		- Ice sheet
-	- Capital town: Vajalharn
+	- Capital town: [[Vajalharn]]
 		- Walled
 		- Has castle
 	- Various villages scattered around
-		- Hardstone
+		- [[Hardstone]]
 			- Western mining village in mountains
-		- Port Henefel
+		- [[Port Henefel]]
 			- Fishing village on northern shore
-		- Jordel's Hold
+		- [[Jordel's Hold]]
 			- Farming village
 			- Near an abandoned castle
 				- Named after the castle
-		- Lake Varneir
+		- [[Lake Varneir]]
 			- Farming village on a lake
-		- Eastpath
+		- [[Eastpath]]
 			- Eastern farming village at foothills of mountains
 			- Base of paths leading into mountains
 	- People called Marchers
@@ -50,18 +50,18 @@
 	- Worship of local gods: Hajatar (War god), Nemein (Nature god), or rarely Tavaneir (blood god)
 - Factions:
 	- Imperial government
-		- Led by marquess of Vajalharn
+		- Led by marquess of [[Vajalharn]]
 	- Rebels
-		- Led by upstart village leader in Lake Varneir
+		- Led by upstart village leader in [[Lake Varneir]]
 	- Bandits
 		- Scattered throughout woods
 	- Mindflayer
-		- In caverns by Hardstone
-		- Attempting to control Hardstone populace
+		- In caverns by [[Hardstone]]
+		- Attempting to control [[Hardstone]] populace
 	- Dragon
-		- In mountains east of Eastpath, but hunts throughout eastern part of region
+		- In mountains east of [[Eastpath]], but hunts throughout eastern part of region
 	- Spirit of blood god
-		- Hidden in Jordel's Hold
+		- Hidden in [[Jordel's Hold]]
 	- Aboleth
 		- In water north of Henefel
 - Adventure Hook: PCs are tasked with venturing to and securing one of the villages
