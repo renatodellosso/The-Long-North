@@ -61,3 +61,4 @@
 		- Hidden in Jordel's Hold
 	- Aboleth
 		- In water north of Henefel
+- Adventure Hook: PCs are tasked with venturing to and securing one of the villages

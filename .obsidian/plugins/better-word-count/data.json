@@ -12,7 +12,7 @@
   "altBar": [
     {
       "prefix": "",
-      "suffix": "total words",
+      "suffix": " total words",
       "metric": {
         "type": 2,
         "counter": 0

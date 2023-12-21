@@ -161,6 +161,136 @@
       "files": [
         "Map.md"
       ]
+    },
+    {
+      "id": "northern-march-map",
+      "lastAccessed": 1703119634543,
+      "markers": [
+        {
+          "id": "ID_885879097a9b",
+          "type": "City",
+          "loc": [
+            -1.6521484553813934,
+            0.9441405534744263
+          ],
+          "link": "Vajalharn",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9791a9a8b89",
+          "type": "Town",
+          "loc": [
+            -1.3138671815395355,
+            0.337890625
+          ],
+          "link": "Hardstone",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b18583a29a8",
+          "type": "Town",
+          "loc": [
+            -1.8977254327239825,
+            1.4039937102524767
+          ],
+          "link": "Lake Varneir",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8bb7a398bca",
+          "type": "Town",
+          "loc": [
+            -1.1438003517047148,
+            1.7821300931766995
+          ],
+          "link": "Eastpath",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bb87b0aea7b",
+          "type": "Town",
+          "loc": [
+            -0.3255176230651909,
+            1.1076164814679905
+          ],
+          "link": "Hardstone",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa5b6a0a29ca",
+          "type": "Town",
+          "loc": [
+            -1.0541990995407104,
+            1.3439452648162842
+          ],
+          "link": "Jordel's Hold",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_892acbaacb6a",
+          "type": "default",
+          "loc": [
+            -0.9145431592855858,
+            1.854498086531239
+          ],
+          "link": "Skyreacher Mountain",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Map.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -195,6 +325,22 @@
       "type": "Dungeon",
       "iconName": "map-marker",
       "color": "#ff0059",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "map-marker",
+      "color": "#9dff8a",
       "alpha": 1,
       "layer": false,
       "transform": {
