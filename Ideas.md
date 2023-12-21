@@ -5,7 +5,7 @@
 - PCs attempt to secure local region
 	- Various factions trying to rule it
 - Winter is coming
-	- Starts at end of summer, on day when sun is supposed to rise from 6-month night
+	- Starts at end of summer
 - Set in the northern part of the empire of Daros
 	- Capital city to the south
 - Province: The North March
@@ -45,6 +45,9 @@
 			- Quori replaced with choice of Celestial, Infernal, or Deep Speech
 		- Hobgoblin
 		- Other uncommon races
+- Religion
+	- Empire worships Aralos, god of light
+	- Worship of local gods: Hajatar (War god), Nemein (Nature god), or rarely Tavaneir (blood god)
 - Factions:
 	- Imperial government
 		- Led by marquess of Vajalharn
@@ -57,7 +60,7 @@
 		- Attempting to control Hardstone populace
 	- Dragon
 		- In mountains east of Eastpath, but hunts throughout eastern part of region
-	- Star Spawn
+	- Spirit of blood god
 		- Hidden in Jordel's Hold
 	- Aboleth
 		- In water north of Henefel
