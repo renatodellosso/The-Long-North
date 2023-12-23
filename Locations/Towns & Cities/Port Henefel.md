@@ -6,4 +6,4 @@ cssclasses:
 
 Port Henefel is a small fishing village and the northernmost port in the empire.
 
-An aboleth is in the waters around Port Henefel and aims to use the townsfolk to further its goals on land.
+An aboleth, [[Shar-Anel]], is in the waters around Port Henefel and aims to use the townsfolk to further its goals on land. It has made promises to several of the townsfolk to secure their aid. It plans to covertly gain control of the town and then use town leaders to gain further influence in the march.

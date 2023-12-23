@@ -47,7 +47,7 @@
 		- Other uncommon races
 - Religion
 	- Empire worships Aralos, god of light
-	- Worship of local gods: Hajatar (War god), Nemein (Nature god), or rarely Tavaneir (blood god)
+	- Worship of local gods: Hajatar (War god), Nemein (Nature god), or rarely [[Tavaneir]] (blood god)
 - Factions:
 	- Imperial government
 		- Led by marquess of [[Vajalharn]]

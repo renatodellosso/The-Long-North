@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4251957283f92fac",
+            "id": "d4246f15abcbbd6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Towns & Cities/Port Henefel.md",
+                "file": "Locations/Towns & Cities/Vajalharn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Towns & Cities/Port Henefel.md",
+                "file": "Locations/Towns & Cities/Vajalharn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Towns & Cities/Port Henefel.md",
+                "file": "Locations/Towns & Cities/Vajalharn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +118,27 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "67181e8c79762824",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Towns & Cities/Vajalharn.md"
+              }
+            }
+          },
+          {
+            "id": "f96e46fd3786959d",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -142,20 +160,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4251957283f92fac",
+  "active": "d4246f15abcbbd6c",
   "lastOpenFiles": [
+    "People/Fjaxes.md",
+    "People/Tavaneir.md",
+    "People/Shar-Anel.md",
+    "Locations/Towns & Cities/Port Henefel.md",
+    "People/Denefel.md",
+    "People/Untitled",
     "Locations/Towns & Cities/Lake Varneir.md",
-    "Locations/Towns & Cities/Jordel's Hold.md",
-    "Locations/Towns & Cities/Eastpath.md",
-    "People",
-    "Locations/Towns & Cities/Hardstone.md",
     "Locations/Towns & Cities/Vajalharn.md",
+    "People/March Lord Varen.md",
+    "Locations/Towns & Cities/Eastpath.md",
+    "Locations/Towns & Cities/Hardstone.md",
+    "Locations/Towns & Cities/Jordel's Hold.md",
+    "People",
     "Templates/Banner.md",
     "Ideas.md",
     "Map.md",
     "Religion.md",
     "Overview.md",
-    "Locations/Towns & Cities/Port Henefel.md",
     "Images/AbandonedShrine.jpg",
     "Images/AbandonedShrine.jpg.crdownload",
     "Images/ColdMountain2.jpg",
@@ -170,7 +194,6 @@
     "Images/ColdMountain.jpg",
     "ColdMountain.jpg.crdownload",
     "Pasted image 20231220184953.png",
-    "Locations/Towns & Cities",
     "Map.png"
   ]
 }
