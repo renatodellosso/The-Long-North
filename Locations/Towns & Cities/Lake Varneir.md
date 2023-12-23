@@ -6,4 +6,4 @@ cssclasses:
 
 Shielded by the mountains, Lake Varneir is an isolated lake-side village.
 
-The people of Lake Varneir have risen in revolt against the provincial government.
+The people of Lake Varneir, led by [[Henetein]], have risen in revolt against the provincial government.

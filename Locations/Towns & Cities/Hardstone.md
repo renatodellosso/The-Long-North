@@ -6,4 +6,4 @@ cssclasses:
 
 Hardstone is a mining village at the base of the western mountains. It provides stone and metals mined out of the nearby caverns to the rest of the march.
 
-A mindflayer, [[Fjaxes]], is hiding deep in the caves and has a collection of tadpoles. They would like to implant one into the dragon [[Denefel]].
+A mindflayer, [[Fjaxes]], is hiding deep in the caves and has a collection of tadpoles.

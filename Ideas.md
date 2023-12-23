@@ -49,19 +49,19 @@
 	- Empire worships Aralos, god of light
 	- Worship of local gods: Hajatar (War god), Nemein (Nature god), or rarely [[Tavaneir]] (blood god)
 - Factions:
-	- Imperial government
+	- Imperial government - [[March Lord Varen]]
 		- Led by marquess of [[Vajalharn]]
-	- Rebels
+	- Rebels - [[Henetein]]
 		- Led by upstart village leader in [[Lake Varneir]]
 	- Bandits
 		- Scattered throughout woods
-	- Mindflayer
+	- Mindflayer - [[Fjaxes]]
 		- In caverns by [[Hardstone]]
 		- Attempting to control [[Hardstone]] populace
-	- Dragon
+	- Dragon - [[Skyclaw]]
 		- In mountains east of [[Eastpath]], but hunts throughout eastern part of region
-	- Spirit of blood god
+	- Spirit of blood god - [[Tavaneir]]
 		- Hidden in [[Jordel's Hold]]
-	- Aboleth
+	- Aboleth - [[Shar-Anel]]
 		- In water north of Henefel
 - Adventure Hook: PCs are tasked with venturing to and securing one of the villages
