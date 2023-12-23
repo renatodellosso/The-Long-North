@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.487525987525988,
-  "repelStrength": 5.34303534303534,
+  "centerStrength": 0.445945945945946,
+  "repelStrength": 7.42203742203742,
   "linkStrength": 1,
   "linkDistance": 138,
   "scale": 1.5255568449083805,
-  "close": false
+  "close": true
 }

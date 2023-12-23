@@ -51,9 +51,9 @@
 - Factions:
 	- Imperial government - [[March Lord Varen]]
 		- Led by marquess of [[Vajalharn]]
-	- Rebels - [[Henetein]]
+	- Rebels - [[Hetein]]
 		- Led by upstart village leader in [[Lake Varneir]]
-	- Bandits
+	- Bandits - [[Greenfang]]
 		- Scattered throughout woods
 	- Mindflayer - [[Fjaxes]]
 		- In caverns by [[Hardstone]]
