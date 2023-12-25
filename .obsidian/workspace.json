@@ -152,20 +152,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "c6e7d878102f236f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbbdd4e171a55f2a",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
