@@ -1,3 +1,13 @@
+* Major Themes
+	* Political Intrigue
+	* Homelands vs Borderlands
+	* Economics
+* 6 Truths
+	* The Darosi Empire is continuously seeking new lands to conquer. Its legions make extensive use of magic and cavalry to remain mobile.
+	* The Darosi Empire is governed by an 80-seat parliament, but the seats are divided amongst numerous groups. The empire's actual power is fragmented amongst an even larger number of groups.
+	* The Elves and the Kalashtar jointly rule the empire. They exploit their long lifespans and memories from past lives respectively to gain an advantage over other peoples.
+	* The empire employs numerous magic-users for various purposes. Law-enforcement often uses psions and magi, whilst armies use wizards, paladins, and more. Druids ensure bountiful harvests of the empire's favorite delicacies..
+	* 
 * Darosi Empire
 	* Ruled by Kalashtar and Elves
 	* Groups who initially formed the empire:
@@ -11,6 +21,8 @@
 			* Collectively known as the sil'Ashatari
 			* Worshipped by Kalashtar and Elves
 			* Kalashtar experience and learn from the memories of their linked spirit while sleep
+			* The spirits absorbs their memories once they die
+				* Passed on to next Kalashtar linked to that spirit
 		* Originally ruled city of Daros
 		* Founding members of the empire, provided leaders and psions
 	* Elves
@@ -24,6 +36,12 @@
 			* Originally controlled deep forests and mountains
 			* Founding members of the empire, provided passage for armies
 				* Enabled imperial armies to appear out of nowhere and move through nearly any terrain
+	* Humans
+		* Most numerous outside of the valley
+	* Hobgoblin
+		* Recruited to serve as foot soldiers for the imperial army
+	* Orcs
+		* Native to the north
 * Religion
 	* Most people worship Aralos
 		* State-sponsored religion for non-Kalashtar and non-Elves
@@ -66,10 +84,32 @@
 		* High Inquisitors elect the High Justiciar
 			* Serves for life, unless removed by High Inquisitors
 			* Does not require senate approval
-* Capital city: Daros
+	* Has various ranks of nobility
+		* High Lord
+			* Comes with a senate seat
+			* Governs a province
+			* Typically 4-5 lords under a single High Lord
+			* Daros has its own High Lord with no Lords under them
+			* Confers the prefix kil' before name
+		* March Lord
+			* Is not under a High Lord, but does not have a senate seat
+			* Governs a march
+			* Confers the prefix mil'
+		* Lord
+			* Under a High Lord
+			* Governs a fief
+			* Confers the prefix vil'
+		* Knight
+			* Does not govern land
+			* Non-hereditary
+			* Confers prefix il'
+			* Grants exception from some laws
+			* Denotes a person authorized to conduct official business of the empire
+* Capital city: Ivaes Daros
+	* Usually just called Daros (Ivaes means Imperial city)
 	* In a valley surrounded by rough mountains
 	* On a lake
-	* Has the Academies
+	* The Academies
 		* Collection of schools
 		* Has seats in the senate
 	* The Mithril Bank
@@ -81,3 +121,13 @@
 		* Strong, but light
 		* Used by Elven mounted archers
 		* Discovered midway through the empire's initial conquests
+* Languages
+	* Imperial (Common)
+	* Celestial
+		* Used by the sil'Ashatari
+		* Language of magic
+	* Old Imperial
+* New Classes
+	* Magus
+	* Psion
+	* Warlord
