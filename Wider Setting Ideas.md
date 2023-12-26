@@ -7,7 +7,8 @@
 	* The Darosi Empire is governed by an 80-seat parliament, but the seats are divided amongst numerous groups. The empire's actual power is fragmented amongst an even larger number of groups.
 	* The Elves and the Kalashtar jointly rule the empire. They exploit their long lifespans and memories from past lives respectively to gain an advantage over other peoples.
 	* The empire employs numerous magic-users for various purposes. Law-enforcement often uses psions and magi, whilst armies use wizards, paladins, and more. Druids ensure bountiful harvests of the empire's favorite delicacies..
-	* 
+	* The empire extracts resources from outer provinces and ships them towards the imperial core. Resultingly, the core is fabulously wealthy, while the provinces are often impoverished.
+	* Imperial mages have been experimenting with the undead, both refining the use of the undead in new applications and improving methods for creating and controlling the undead. Long term, the empire seeks to replace living workers with undead.
 * Darosi Empire
 	* Ruled by Kalashtar and Elves
 	* Groups who initially formed the empire:
@@ -23,6 +24,7 @@
 			* Kalashtar experience and learn from the memories of their linked spirit while sleep
 			* The spirits absorbs their memories once they die
 				* Passed on to next Kalashtar linked to that spirit
+			* The Linked Spirit is a soul that absorbs the spirits of the Kalashtar it's linked to
 		* Originally ruled city of Daros
 		* Founding members of the empire, provided leaders and psions
 	* Elves
@@ -68,8 +70,9 @@
 		* Must be a member of the senate already
 		* Chooses someone to hold their seat while emperor
 		* Limited to one ten-year term
+			* Cannot be reelected if removed
 		* Can be removed early
-		* Can pass laws called edicts
+		* Can unilaterally pass laws called edicts
 	* Senate elects a High Warlord
 		* Commands military
 		* Remains until removed
@@ -105,7 +108,22 @@
 			* Confers prefix il'
 			* Grants exception from some laws
 			* Denotes a person authorized to conduct official business of the empire
-* Capital city: Ivaes Daros
+	* Territorial Divisions
+		* Provinces
+			* Governed by a High Lord
+			* Typically has a town or city
+			* Divided further into fiefs
+				* Fiefs are governed by a Lord
+				* Usually has a few villages
+		* Marches
+			* Regions that are nominally in the process of becoming provinces
+				* Early marches became provinces, but the senate is reluctant to add more members. Many marches try to persuade the emperor to make them a province
+			* Governed by a March Lord
+		* Daros
+			* Effectively a province that is not divided into fiefs
+			* Governed by a High Lord
+			* Has the prefix Ilaes (Imperial City)
+* Capital city: Ilaes Daros
 	* Usually just called Daros (Ivaes means Imperial city)
 	* In a valley surrounded by rough mountains
 	* On a lake
@@ -131,3 +149,8 @@
 	* Magus
 	* Psion
 	* Warlord
+* Magic
+	* Beings are divided into the Vessel, Soul, and Spirit
+		* Vessel is the body
+		* Soul holds the spirit
+			* The soul keeps the spirit together. If the spirit is removed from a soul, it dissipates
