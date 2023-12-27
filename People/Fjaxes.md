@@ -6,4 +6,4 @@ He would also like to implant a tadpole into [[Skyclaw]], which he believes will
 
 If Fjaxes finds out about [[Tavaneir]]'s vampirism in [[Jordel's Hold]], he takes action against it, as vampires, being cold-blooded, cannot undergo ceremorphosis.
 
-Fjaxes might attempt to "partner" with [[Hetein]]'s rebellion, planning to seize control at a later date.
+Fjaxes might attempt to "partner" with [[Hetein]]'s rebellion in [[Lake Varneir]], planning to seize control at a later date.

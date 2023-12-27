@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Towns & Cities/Vajalharn.md",
+                "file": "People/Tavaneir.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Map.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Towns & Cities/Vajalharn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Towns & Cities/Vajalharn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Towns & Cities/Vajalharn.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,22 +177,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f669df40002380d",
+  "active": "00c79d760027de7d",
   "lastOpenFiles": [
-    "People/Skyclaw.md",
     "Map.md",
-    "People/Greenfang.md",
+    "People/Tavaneir.md",
+    "Ideas.md",
     "People/Fjaxes.md",
+    "Locations/Towns & Cities/Vajalharn.md",
+    "People/Skyclaw.md",
+    "People/Greenfang.md",
     "Locations/Geographic Features/East River.md",
     "Locations/Geographic Features/West River.md",
     "Locations/Geographic Features",
     "People/Hetein.md",
-    "Locations/Towns & Cities/Vajalharn.md",
     "Locations/Towns & Cities/Jordel's Hold.md",
     "Wider Setting Ideas.md",
-    "Ideas.md",
     "People/March Lord Varen.md",
-    "People/Tavaneir.md",
     "People/Shar-Anel.md",
     "Untitled.canvas",
     "Locations/Towns & Cities/Hardstone.md",
