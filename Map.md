@@ -12,3 +12,5 @@ maxZoom: 10
 defaultZoom: 7.5
 zoomDelta: 0.5
 ```
+
+Map Distance Conversion: 1 miles on map = 166 miles = 7 days of travel

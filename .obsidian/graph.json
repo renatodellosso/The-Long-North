@@ -8,7 +8,7 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Locations  ",
+      "query": "path:\"Locations/Towns & Cities\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Locations/Geographic Features\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": true,
@@ -29,9 +36,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.445945945945946,
-  "repelStrength": 7.42203742203742,
+  "repelStrength": 13.2432432432432,
   "linkStrength": 1,
   "linkDistance": 138,
-  "scale": 1.5255568449083805,
+  "scale": 1,
   "close": true
 }

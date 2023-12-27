@@ -1,6 +1,6 @@
 *NE Male Young White Dragon*
 
-Skyclaw has a lair at the top of Skyreacher Mountain. He plans to take over [[Eastpath]] and force the farmers there to pay livestock as tribute.
+Skyclaw has a lair at the top of Skyreacher Mountain. He plans to take over [[Eastpath]] and force the farmers there to pay livestock as tribute. Most of his hunting grounds are east of the [[East River]]; he avoids [[Vajalharn]] at all costs, believing that [[March Lord Varen]] would be able to have him killed if the lord was aware of him.
 
 He wants [[Hetein]] and [[March Lord Varen]] to go to war with each other, so he can then offer protection to one side.
 

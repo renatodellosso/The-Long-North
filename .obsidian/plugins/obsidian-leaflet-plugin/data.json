@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1703125793258,
+      "lastAccessed": 1703701544215,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -221,14 +221,17 @@
           "id": "ID_b8bb7a398bca",
           "type": "Town",
           "loc": [
-            -1.1438003517047148,
-            1.7821300931766995
+            -1.1313708667572155,
+            1.76003300626462
           ],
           "link": "Eastpath",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.8343860177847087,
+            0.5363535960923096
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
