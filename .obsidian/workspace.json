@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f669df40002380d",
+            "id": "97af57347c7aa939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Tavaneir.md",
+                "file": "Locations/Towns & Cities/Vajalharn.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97af57347c7aa939",
+            "id": "a8b7c1c3cf1a7362",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Map.md"
+              }
             }
           },
           {
@@ -177,26 +181,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00c79d760027de7d",
+  "active": "a8b7c1c3cf1a7362",
   "lastOpenFiles": [
-    "Map.md",
-    "People/Tavaneir.md",
-    "Ideas.md",
-    "People/Fjaxes.md",
     "Locations/Towns & Cities/Vajalharn.md",
+    "Map.md",
+    "Shine to Tavaneir.md",
+    "Ideas.md",
+    "Locations/Towns & Cities/Jordel's Hold.md",
+    "Locations/Towns & Cities/Lake Varneir.md",
+    "People/Tavaneir.md",
     "People/Skyclaw.md",
+    "People/Fjaxes.md",
     "People/Greenfang.md",
     "Locations/Geographic Features/East River.md",
     "Locations/Geographic Features/West River.md",
     "Locations/Geographic Features",
     "People/Hetein.md",
-    "Locations/Towns & Cities/Jordel's Hold.md",
     "Wider Setting Ideas.md",
     "People/March Lord Varen.md",
     "People/Shar-Anel.md",
     "Untitled.canvas",
     "Locations/Towns & Cities/Hardstone.md",
-    "Locations/Towns & Cities/Lake Varneir.md",
     "Locations/Towns & Cities/Eastpath.md",
     "Denefel.md",
     "Locations/Towns & Cities/Port Henefel.md",

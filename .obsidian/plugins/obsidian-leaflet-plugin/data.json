@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1703709658615,
+      "lastAccessed": 1703723785880,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -273,12 +273,66 @@
         },
         {
           "id": "ID_892acbaacb6a",
-          "type": "default",
+          "type": "Dungeon",
           "loc": [
             -0.9145431592855858,
             1.854498086531239
           ],
           "link": "Skyreacher Mountain",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bbbca1acb58",
+          "type": "default",
+          "loc": [
+            -1.6566404104232788,
+            0.5921874046325684
+          ],
+          "link": "Wizard Tower",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48f9d9693bfa",
+          "type": "default",
+          "loc": [
+            -1.419737834101115,
+            0.9037707198341409
+          ],
+          "link": "Shrine to Tavaneir",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4284542671806298,
+            0.6730608991294176
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8ca2a196a7b",
+          "type": "default",
+          "loc": [
+            -1.0667966604232788,
+            1.2484374046325684
+          ],
+          "link": "Yeti Sighting",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
