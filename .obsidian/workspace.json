@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Towns & Cities/Vajalharn.md",
-                "mode": "source",
+                "file": "Map.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map.md",
-                "mode": "preview",
+                "file": "Locations/Fort Jordel.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map.md",
+                "file": "Locations/Fort Jordel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map.md",
+                "file": "Locations/Fort Jordel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map.md"
+                "file": "Locations/Fort Jordel.md"
               }
             }
           },
@@ -183,11 +183,12 @@
   },
   "active": "a8b7c1c3cf1a7362",
   "lastOpenFiles": [
-    "Locations/Towns & Cities/Vajalharn.md",
+    "Locations/Towns & Cities/Jordel's Hold.md",
+    "Locations/Fort Jordel.md",
     "Map.md",
+    "Locations/Towns & Cities/Vajalharn.md",
     "Shine to Tavaneir.md",
     "Ideas.md",
-    "Locations/Towns & Cities/Jordel's Hold.md",
     "Locations/Towns & Cities/Lake Varneir.md",
     "People/Tavaneir.md",
     "People/Skyclaw.md",
