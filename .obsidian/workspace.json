@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Fort Jordel.md",
+                "file": "Locations/Towns & Cities/Jordel's Hold.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Fort Jordel.md",
+                "file": "Locations/Towns & Cities/Jordel's Hold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Fort Jordel.md",
+                "file": "Locations/Towns & Cities/Jordel's Hold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Fort Jordel.md"
+                "file": "Locations/Towns & Cities/Jordel's Hold.md"
               }
             }
           },
@@ -183,24 +183,24 @@
   },
   "active": "a8b7c1c3cf1a7362",
   "lastOpenFiles": [
-    "Locations/Towns & Cities/Jordel's Hold.md",
     "Locations/Fort Jordel.md",
-    "Map.md",
     "Locations/Towns & Cities/Vajalharn.md",
+    "People/Tavaneir.md",
+    "People/Skyclaw.md",
+    "People/Shar-Anel.md",
+    "People/Greenfang.md",
+    "Locations/Towns & Cities/Jordel's Hold.md",
+    "Map.md",
     "Shine to Tavaneir.md",
     "Ideas.md",
     "Locations/Towns & Cities/Lake Varneir.md",
-    "People/Tavaneir.md",
-    "People/Skyclaw.md",
     "People/Fjaxes.md",
-    "People/Greenfang.md",
     "Locations/Geographic Features/East River.md",
     "Locations/Geographic Features/West River.md",
     "Locations/Geographic Features",
     "People/Hetein.md",
     "Wider Setting Ideas.md",
     "People/March Lord Varen.md",
-    "People/Shar-Anel.md",
     "Untitled.canvas",
     "Locations/Towns & Cities/Hardstone.md",
     "Locations/Towns & Cities/Eastpath.md",
