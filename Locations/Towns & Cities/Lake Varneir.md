@@ -8,6 +8,8 @@ Shielded by the mountains, Lake Varneir is an isolated lake-side village.
 
 The people of Lake Varneir, led by [[Hetein]], have risen in revolt against the provincial government.
 
-The town has planted spikes in the ground around its land border and is working on a moat. However, the lakeshore is mostly unprotected.
+The town has planted spikes in the ground around its land border and is working on a moat. However, the lakeshore and the docks are mostly unprotected.
 
 After the sun didn't rise, Hetein rallied a militia to defend the town and barred anyone from entering or leaving.
+
+Hetein has set up a headquarters in a large house near the center of town. The house is visible from outside the town and the usual imperial banners are not flying.
