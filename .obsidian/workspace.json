@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97af57347c7aa939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Map.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e22d2f079aa4892c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Hetein.md",
+                "file": "Locations/Towns & Cities/Lake Varneir.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Hetein.md",
+                "file": "Locations/Towns & Cities/Lake Varneir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Hetein.md",
+                "file": "Locations/Towns & Cities/Lake Varneir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Hetein.md"
+                "file": "Locations/Towns & Cities/Lake Varneir.md"
               }
             }
           },
@@ -183,11 +170,12 @@
   },
   "active": "e22d2f079aa4892c",
   "lastOpenFiles": [
+    "Locations/Towns & Cities/Vajalharn.md",
     "Locations/Towns & Cities/Lake Varneir.md",
+    "People/Hetein.md",
     "Map.md",
     "Locations/Towns & Cities/Jordel's Hold.md",
     "Locations/Fort Jordel.md",
-    "Locations/Towns & Cities/Vajalharn.md",
     "People/Tavaneir.md",
     "People/Skyclaw.md",
     "People/Shar-Anel.md",
@@ -198,7 +186,6 @@
     "Locations/Geographic Features/East River.md",
     "Locations/Geographic Features/West River.md",
     "Locations/Geographic Features",
-    "People/Hetein.md",
     "Wider Setting Ideas.md",
     "People/March Lord Varen.md",
     "Untitled.canvas",

@@ -13,3 +13,11 @@ The town has planted spikes in the ground around its land border and is working 
 After the sun didn't rise, Hetein rallied a militia to defend the town and barred anyone from entering or leaving.
 
 Hetein has set up a headquarters in a large house near the center of town. The house is visible from outside the town and the usual imperial banners are not flying.
+
+Lake Varneir has a small tavern by the water, called by the Aboleth.
+
+# Lake Varneir Rumors
+| 1d8 | Rumor                                                            |
+| --- | ---------------------------------------------------------------- |
+| 1   | Some sort of serpent has been sighted in the middle of the lake. |
+| 2    | A rumor is spreading that Hetein is embezzling funds and equipment from the town.                                                                 |
