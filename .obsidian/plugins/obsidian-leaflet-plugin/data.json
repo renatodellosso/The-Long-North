@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1704156322035,
+      "lastAccessed": 1704215738104,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -367,6 +367,60 @@
             1.487890601158142
           ],
           "link": "Capsized Boat",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a0a2a9928e8",
+          "type": "default",
+          "loc": [
+            -0.8960368574260889,
+            1.1888233433048407
+          ],
+          "link": "Stone Circle",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5635903257148874,
+            0.4247878435205162
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b878f9196a6a",
+          "type": "default",
+          "loc": [
+            -1.0737060531973839,
+            1.355273425579071
+          ],
+          "link": "Farm w/ Grain Silo",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb5a7b681b68",
+          "type": "Dungeon",
+          "loc": [
+            -1.0693263962339192,
+            1.4561979769298283
+          ],
+          "link": "Barrow w/ Gem",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,

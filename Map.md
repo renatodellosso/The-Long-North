@@ -13,4 +13,9 @@ defaultZoom: 7.5
 zoomDelta: 0.5
 ```
 
-Map Distance Conversion: 1 mile on map = 166 miles = 7 days of travel
+# Map Distance Conversion: 
+| Map | Actual | Travel |
+| ---- | ---- | ---- |
+| 1 mi | 166 mi | 7 days |
+| 0.5 mi | 83 mi | 3.5 days |
+| 0.1 mi | 17 mi | 0.7 days |
