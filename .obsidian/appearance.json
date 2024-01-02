@@ -2,5 +2,6 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "banner"
-  ]
+  ],
+  "baseFontSize": 15
 }

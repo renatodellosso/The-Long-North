@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1704143978882,
+      "lastAccessed": 1704156322035,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -350,6 +350,23 @@
             1.375390648841858
           ],
           "link": "Fort Jordel",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbbb1bd9e92b",
+          "type": "Dungeon",
+          "loc": [
+            -1.9026854634284973,
+            1.487890601158142
+          ],
+          "link": "Capsized Boat",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
