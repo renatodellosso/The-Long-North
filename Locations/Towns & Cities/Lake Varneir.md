@@ -20,10 +20,10 @@ Lake Varneir has a small tavern by the water, called by the Aboleth.
 | 1d8 | Rumor |
 | ---- | ---- |
 | 1 | Some sort of serpent has been sighted in the middle of the lake. |
-| 2 | A rumor is spreading that Hetein is embezzling funds and equipment from the town. |
-| 3 | Some farmers are feeling uncontent with Hetein's leadership. |
+| 2 | A rumor is spreading that [[Hetein]] is embezzling funds and equipment from the town. |
+| 3 | Some farmers are feeling uncontent with [[Hetein]]'s leadership. |
 | 4 | Some people are looking for help sneaking out of the village. |
-| 5 | A wealthy farmer is looking for imperial help staging a coup against Hetein. |
-| 6 | Local criminals are looking for someone to break into Hetein's house to steal records. |
+| 5 | A wealthy farmer is looking for imperial help staging a coup against [[Hetein]]. |
+| 6 | Local criminals are looking for someone to break into [[Hetein]]'s house to steal records. |
 | 7 | The Aboleth used to make a special ale that requires an aboleth tentacle. |
 | 8 | A fishing boat capsized near the far side of the lake. |

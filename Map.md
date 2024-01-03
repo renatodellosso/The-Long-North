@@ -12,7 +12,6 @@ maxZoom: 10
 defaultZoom: 7.5
 zoomDelta: 0.5
 ```
-
 # Map Distance Conversion: 
 | Map | Actual | Travel |
 | ---- | ---- | ---- |

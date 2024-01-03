@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e22d2f079aa4892c",
+            "id": "e2945c64ac82f559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Towns & Cities/Jordel's Hold.md",
+                "file": "Player Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65f8e7b7dafa91f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Towns & Cities/Vajalharn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,33 +113,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a541de8f26460df7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b6404975919c5b2f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "fb53f5fad682c15d",
             "type": "leaf",
             "state": {
@@ -143,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Towns & Cities/Vajalharn.md"
+              }
             }
           },
           {
@@ -154,12 +141,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,13 +164,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00c79d760027de7d",
+  "active": "65f8e7b7dafa91f9",
   "lastOpenFiles": [
+    "Player Characters.md",
+    "Locations/Towns & Cities/Vajalharn.md",
+    "Locations/Towns & Cities/Port Henefel.md",
     "Map.md",
     "Map.png",
     "Locations/Towns & Cities/Jordel's Hold.md",
     "Locations/Towns & Cities/Lake Varneir.md",
-    "Locations/Towns & Cities/Vajalharn.md",
     "People/Hetein.md",
     "Locations/Fort Jordel.md",
     "People/Tavaneir.md",
@@ -202,7 +191,6 @@
     "Locations/Towns & Cities/Hardstone.md",
     "Locations/Towns & Cities/Eastpath.md",
     "Denefel.md",
-    "Locations/Towns & Cities/Port Henefel.md",
     "People/Untitled",
     "People",
     "Templates/Banner.md",

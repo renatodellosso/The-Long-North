@@ -16,6 +16,8 @@ Within Vajalharn is a general store, an inn and tavern, a blacksmith, Varen's ca
 | 4 | The local Aralosian priests would owe a favor to anyone who destroys a shrine to [[Tavaneir]] a day north of town. |
 | 5 | Locals have heard of discontent with the imperial government brewing in [[Lake Varneir]]. |
 | 6 | A yeti was spotted a few hours' walk west of [[Jordel's Hold]]. |
+| 7 | A cult of [[Tavaneir]] worshipers is supposedly based in Vajalharn and working to set up groups in other towns.  |
+| 8 | A local blacksmith claims they could make a dragon-scale chestplate if given the materials. |
 # Buildings & Shops
 ## The Flayed Wyrm
 The Flayed Wyrm Inn & Tavern is run by Adiren, a male hobgoblin. The building is mostly buried underground, with about half the upper floor visible. The top floor is the tavern, with a floor below for the inn, and a final floor for a brewery.

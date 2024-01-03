@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/736x/56/1c/a2/561ca2f2d9a15dc2e21452a2c95383d1.jpg">
-Fort Jordel lies at the top of a hill overlooking the town. It has been taken over by wild animals infected with vampirism by [[Tavaneir]]. **The stairs up lead to the roof.**
+Fort Jordel lies at the top of a hill overlooking the town. It has been taken over by wild animals infected with vampirism by [[[[Tavaneir]]]]. **The stairs up lead to the roof.**
 # Rooms
 **1. Entryway**
 The gate itself is long-gone, but the doorway is still intact and has been boarded over from the inside. 8 statues of knight line the pathway to the gate.
@@ -17,7 +17,7 @@ A pack of four wolves are fighting over the carcass of an unidentifiable animal.
 The chest in one of these rooms is a mimic with a small marking of ***an eye inside a circle***.
 
 **14. Temple**
-The altar to Aralos has been defaced. In front of it, a small shrine to Tavaneir has been set up; ***a small token with a fang on it*** has been left on the shrine.
+The altar to Aralos has been defaced. In front of it, a small shrine to [[Tavaneir]] has been set up; ***a small token with a fang on it*** has been left on the shrine.
 
 **16. Kitchen**
 A scrawny dog is rooting around in a few barrels of rotten food left in here.
