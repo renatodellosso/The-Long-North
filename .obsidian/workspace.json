@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Towns & Cities/Vajalharn.md"
+                "file": "Player Characters.md"
               }
             }
           },
@@ -139,6 +138,35 @@
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
+            }
+          },
+          {
+            "id": "780071fce3536732",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Player Characters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "153477a4da85d184",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Player Characters.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -164,10 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65f8e7b7dafa91f9",
+  "active": "e2945c64ac82f559",
   "lastOpenFiles": [
-    "Player Characters.md",
     "Locations/Towns & Cities/Vajalharn.md",
+    "Player Characters.md",
     "Locations/Towns & Cities/Port Henefel.md",
     "Map.md",
     "Map.png",
