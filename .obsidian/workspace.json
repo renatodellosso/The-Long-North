@@ -45,13 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Towns & Cities/Vajalharn.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Characters.md"
+                "file": "Ideas.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Characters.md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,13 +164,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Characters.md",
+                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "a3c498529c6a4ea7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,15 +202,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2945c64ac82f559",
+  "active": "65f8e7b7dafa91f9",
   "lastOpenFiles": [
-    "Locations/Towns & Cities/Vajalharn.md",
     "Player Characters.md",
-    "Locations/Towns & Cities/Port Henefel.md",
     "Map.md",
+    "PlayerMap.png",
+    "PlayerMap.xcf",
     "Map.png",
-    "Locations/Towns & Cities/Jordel's Hold.md",
+    "Ideas.md",
     "Locations/Towns & Cities/Lake Varneir.md",
+    "Locations/Towns & Cities/Vajalharn.md",
+    "Locations/Towns & Cities/Port Henefel.md",
+    "Locations/Towns & Cities/Jordel's Hold.md",
     "People/Hetein.md",
     "Locations/Fort Jordel.md",
     "People/Tavaneir.md",
@@ -208,7 +221,6 @@
     "People/Shar-Anel.md",
     "People/Greenfang.md",
     "Shine to Tavaneir.md",
-    "Ideas.md",
     "People/Fjaxes.md",
     "Locations/Geographic Features/East River.md",
     "Locations/Geographic Features/West River.md",
@@ -234,7 +246,6 @@
     "Images/SnowyPlainsCropped.jpg.~tmp",
     "Images/SnowyPlainsCropped.jpg",
     "Images/SnowyPlain.jpg.crdownload",
-    "Images",
     "Images/ColdMountain.jpg",
     "Pasted image 20231220184953.png"
   ]

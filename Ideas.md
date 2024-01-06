@@ -64,5 +64,5 @@
 		- Hidden in [[Jordel's Hold]]
 	- Aboleth - [[Shar-Anel]]
 		- In water north of Henefel
-- Adventure Hook: PCs are tasked with venturing to and securing one of the villages
+- Adventure Hook: PCs start on the road out of Vajalharn shortly after it collapsed
 - Winter Wolves become common after snow falls

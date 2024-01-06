@@ -16,6 +16,8 @@ Hetein has set up a headquarters in a large house near the center of town. The h
 
 Lake Varneir has a small tavern by the water, called by the Aboleth.
 
+Fishing boats usually go out every day, but haven't after the sighting of some sort of serpent in the lake.
+
 # Lake Varneir Rumors
 | 1d8 | Rumor |
 | ---- | ---- |
