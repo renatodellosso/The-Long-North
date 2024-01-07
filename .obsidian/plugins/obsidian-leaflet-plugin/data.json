@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1704497268938,
+      "lastAccessed": 1704596935504,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -363,14 +363,17 @@
           "id": "ID_cbbb1bd9e92b",
           "type": "Dungeon",
           "loc": [
-            -1.9026854634284973,
-            1.487890601158142
+            -1.9156250953674316,
+            1.4914062023162842
           ],
           "link": "Capsized Boat",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.7070370144314236,
+            0.908148193359375
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -421,6 +424,43 @@
             1.4561979769298283
           ],
           "link": "Barrow w/ Gem",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_080ac8d9c8f8",
+          "type": "The Party",
+          "loc": [
+            -1.353710949420929,
+            0.24453121423721313
+          ],
+          "link": "The Party",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.11592590897171585,
+            0.6417592649106626
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_197a78592b4a",
+          "type": "Dungeon",
+          "loc": [
+            -1.3688232749700546,
+            0.23046857118606567
+          ],
+          "link": "Fjaxes' Lair",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -488,6 +528,22 @@
       "color": "#9dff8a",
       "alpha": 1,
       "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "The Party",
+      "iconName": "people-arrows",
+      "color": "#d4ff00",
+      "alpha": 1,
+      "layer": true,
       "transform": {
         "size": 6,
         "x": 0,
