@@ -1,0 +1,15 @@
+- Early in history, Mind Flayers controlled much of the world
+- After the Mind Flayers were the Nuren
+	- Collection of independent tribes
+- The March was conquered by the empire 3 centuries ago
+	- Led by Warlord vil'Itarith
+	- Started with a small strike force that cleared the way for horse archer units
+- Early civilizations in the region were rumored to have found mithril in the tundra
+- Early in the empire, mithril was used in 100-gp coins
+	- Had the symbol of the sil'Ashatari
+- If an inquisitor dies and cannot be preserved and brought back for a proper funeral, their comrades mark their grave with a stone inscribed with "All, vessel, soul, and spirit, for the empire" in Old Imperial and Celestial
+- Only scholars trained by the Academies are permitted to know Nuren Glyphs
+- The March was referred to as Neras Doren before imperial conquest
+	- Means Land of the Doren in Dorek
+- There used to be a number of dragons in the march
+	- The Doren used to worship dragons

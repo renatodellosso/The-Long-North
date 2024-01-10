@@ -49,6 +49,7 @@
 		* State-sponsored religion for non-Kalashtar and non-Elves
 	* Kalashtar and Elves worship the sil'Ashatari
 		* Collective of all the Kalashtar spirits
+		* Symbolized by a ring with 2 skulls facing opposite direction at the bottom
 	* Various heretical gods
 		* Many of them are local gods of conquered areas
 * Government
@@ -124,7 +125,7 @@
 			* Governed by a High Lord
 			* Has the prefix Ilaes (Imperial City)
 * Capital city: Ilaes Daros
-	* Usually just called Daros (Ivaes means Imperial city)
+	* Usually just called Daros (Ilaes means Imperial city)
 	* In a valley surrounded by rough mountains
 	* On a lake
 	* The Academies
@@ -139,12 +140,21 @@
 		* Strong, but light
 		* Used by Elven mounted archers
 		* Discovered midway through the empire's initial conquests
+		* Silvery, slightly iridescent
 * Languages
 	* Imperial (Common)
+	* Dorek
+		* Pre-imperial northern language, spoken by the Doren people
+		* Nominally outlawed
 	* Celestial
 		* Used by the sil'Ashatari
 		* Language of magic
+			* Used for verbal components
 	* Old Imperial
+	* Nuren Glyphs
+		* Only Academy-trained scholars are allowed to know Nuren Glyphs
+	* Deep Speech
+		* Used by aberrations
 * New Classes
 	* Magus
 	* Psion
