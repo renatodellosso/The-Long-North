@@ -143,8 +143,8 @@
 		* Silvery, slightly iridescent
 * Languages
 	* Imperial (Common)
-	* Dorek
-		* Pre-imperial northern language, spoken by the Doren people
+	* Dvairek
+		* Pre-imperial northern language, spoken by the Dvairen people
 		* Nominally outlawed
 	* Celestial
 		* Used by the sil'Ashatari
@@ -160,7 +160,6 @@
 	* Psion
 	* Warlord
 * Magic
-	* Beings are divided into the Vessel, Soul, and Spirit
+	* Beings are divided into the Vessel and Spirit
 		* Vessel is the body
-		* Soul holds the spirit
-			* The soul keeps the spirit together. If the spirit is removed from a soul, it dissipates
+		* Spirit is held within the soul

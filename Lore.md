@@ -7,9 +7,9 @@
 - Early civilizations in the region were rumored to have found mithril in the tundra
 - Early in the empire, mithril was used in 100-gp coins
 	- Had the symbol of the sil'Ashatari
-- If an inquisitor dies and cannot be preserved and brought back for a proper funeral, their comrades mark their grave with a stone inscribed with "All, vessel, soul, and spirit, for the empire" in Old Imperial and Celestial
+- If an inquisitor dies and cannot be preserved and brought back for a proper funeral, their comrades mark their grave with a stone inscribed with "All, vessel and spirit, for the empire" in Old Imperial and Celestial
 - Only scholars trained by the Academies are permitted to know Nuren Glyphs
-- The March was referred to as Neras Doren before imperial conquest
-	- Means Land of the Doren in Dorek
+- The March was referred to as Nerein Dvairen before imperial conquest
+	- Means Land of the Dvairen in Dvairek
 - There used to be a number of dragons in the march
-	- The Doren used to worship dragons
+	- The Dvairen used to worship dragons

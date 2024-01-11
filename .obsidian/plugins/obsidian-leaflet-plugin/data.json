@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1704596935504,
+      "lastAccessed": 1704937149076,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -469,6 +469,77 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_1afb492bbaea",
+          "type": "default",
+          "loc": [
+            -1.0834132322421246,
+            0.6582167740886986
+          ],
+          "link": "Road Blocked",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_398869caca09",
+          "type": "Dungeon",
+          "loc": [
+            -1.010156273841858,
+            0.9386718273162842
+          ],
+          "link": "Bandit Camp",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44499997739438657,
+            0.4788889001916956
+          ],
+          "description": "Leader knows that Greenfang plans to lead an attack on Vajalharn on Fall 25",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_992a69b86aca",
+          "type": "Dungeon",
+          "loc": [
+            -1.1278807520866394,
+            0.7371093034744263
+          ],
+          "link": "Barrow",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_783a18bb4a2b",
+          "type": "default",
+          "loc": [
+            -0.9372557401657104,
+            0.6546874046325684
+          ],
+          "link": "Winter Wolf Pack in Area",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -574,7 +645,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": "7",
+    "defaultZoom": "7.5",
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -596,7 +667,7 @@
     "markerFolder": [],
     "markerTag": [],
     "maxZoom": "10",
-    "minZoom": "7",
+    "minZoom": "7.5",
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
