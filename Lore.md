@@ -13,3 +13,4 @@
 	- Means Land of the Dvairen in Dvairek
 - There used to be a number of dragons in the march
 	- The Dvairen used to worship dragons
+	- Conflict between North Gods from the east and dragon-worshippers
