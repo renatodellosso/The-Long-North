@@ -47,6 +47,12 @@
 * Religion
 	* Most people worship Aralos
 		* State-sponsored religion for non-Kalashtar and non-Elves
+		* Encourages donating and following imperial authority
+			* Encourages followers to donate some money every season to fund the empire's projects
+		* Promotes the military
+			* Views death in battle as the highest honor possible
+			* Encourages followers to donate food and money whenever armies are in the area
+		* Symbolized by a rising half-circle with 5 spears coming out
 	* Kalashtar and Elves worship the sil'Ashatari
 		* Collective of all the Kalashtar spirits
 		* Symbolized by a ring with 2 skulls facing opposite direction at the bottom
@@ -55,7 +61,7 @@
 * Government
 	* Governed by a senate
 		* Passes laws
-			* Laws overrule emperor's edicts
+			* Laws overrule emperor and consul's edicts
 		* 80 seats
 			* 20 for High Lords
 			* 10 for military officers
@@ -67,18 +73,31 @@
 			* 10 for magic-users
 			* 10 for the banks
 			* If someone would hold multiple seats, they select someone else for each other seat
-	* Senate elects an emperor
+		* Meets in Daros
+	* Senate elects a consul
 		* Must be a member of the senate already
 		* Chooses someone to hold their seat while emperor
-		* Limited to one ten-year term
+		* Limited to one two-year term
 			* Cannot be reelected if removed
 		* Can be removed early
 		* Can unilaterally pass laws called edicts
+			* Can nullify emperor's edicts
+		* Can order a warlord, but not the High Warlord
+	* Emperor
+		* Can unilaterally pass laws called edicts
+			* Can nullify consul's edicts
+		* Selects crown prince from among senators' children
+			* Requires senate approval
+		* Can order a warlord, but not the High Warlord
+		* Not allowed to marry or have children
+		* Takes surname xil'Daros
+		* Acts as the public face of the empire
 	* Senate elects a High Warlord
 		* Commands military
 		* Remains until removed
 		* Supported by various warlords
 			* High Warlord appoints warlords, but requires senate approval
+			* Can remove them at any time
 			* Typically 5-7 at a time
 	* Senate selects inquisitors
 		* Serve as judges
