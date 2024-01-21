@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6dfdbbb6e3a162bb",
+        "id": "522d29ecd704a231",
         "type": "tabs",
         "children": [
           {
-            "id": "9c7948f9c8f21a1c",
+            "id": "6a36c6aa1168d331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wider Setting Ideas.md",
+                "file": "Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fb79165b3100c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Skyclaw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ae280dd0efad71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wider Setting Ideas.md"
+                "file": "Session Notes/Session 3.md"
               }
             }
           },
@@ -114,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wider Setting Ideas.md",
+                "file": "Session Notes/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wider Setting Ideas.md",
+                "file": "Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,19 +193,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c7948f9c8f21a1c",
+  "active": "7ae280dd0efad71f",
   "lastOpenFiles": [
-    "Lore.md",
-    "Locations/Fort Jordel.md",
-    "Locations/Towns & Cities/Eastpath.md",
+    "People/Skyclaw.md",
+    "Session Notes/Session 3.md",
     "Map.md",
-    "Session Notes/Session 2.md",
+    "Ideas.md",
     "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Lore.md",
     "Wider Setting Ideas.md",
+    "Locations/Towns & Cities/Eastpath.md",
+    "Locations/Fort Jordel.md",
     "Bandit Camp.md",
     "People/Fjaxes.md",
     "Locations/Towns & Cities/Hardstone.md",
-    "Ideas.md",
     "Map.png",
     "Session Notes",
     "Player Characters.md",
@@ -192,7 +219,6 @@
     "Locations/Towns & Cities/Jordel's Hold.md",
     "People/Hetein.md",
     "People/Tavaneir.md",
-    "People/Skyclaw.md",
     "People/Shar-Anel.md",
     "People/Greenfang.md",
     "Shine to Tavaneir.md",
@@ -201,7 +227,6 @@
     "Locations/Geographic Features",
     "People/March Lord Varen.md",
     "Untitled.canvas",
-    "Denefel.md",
     "People/Untitled",
     "People",
     "Images/AbandonedShrine.jpg",

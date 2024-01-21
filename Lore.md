@@ -12,5 +12,5 @@
 - The March was referred to as Nerein Dvairen before imperial conquest
 	- Means Land of the Dvairen in Dvairek
 - There used to be a number of dragons in the march
-	- The Dvairen used to worship dragons
+	- The Dvairen used to worship dragons, known as the Great Wyrms
 	- Conflict between North Gods from the east and dragon-worshippers

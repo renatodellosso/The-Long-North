@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1705538003229,
+      "lastAccessed": 1705803539602,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -323,7 +323,7 @@
             0.43028757891432745,
             0.6488359445887673
           ],
-          "description": null,
+          "description": "Leader meets there every couple days",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -423,14 +423,17 @@
           "id": "ID_cb5a7b681b68",
           "type": "Dungeon",
           "loc": [
-            -1.0693263962339192,
-            1.4561979769298283
+            -1.0669921934604645,
+            1.4435546398162842
           ],
           "link": "Barrow w/ Gem",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6843518292462384,
+            0.505833336159035
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -440,16 +443,16 @@
           "id": "ID_080ac8d9c8f8",
           "type": "The Party",
           "loc": [
-            -1.0285156071186066,
-            1.320898413658142
+            -1.1429687440395355,
+            1.7515625357627869
           ],
           "link": "The Party",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.626203692400897,
-            0.48759258411548756
+            0.8303703873245805,
+            0.5418518490261501
           ],
           "description": null,
           "minZoom": null,
