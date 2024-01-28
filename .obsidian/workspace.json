@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 3.md"
+                "file": "Session Notes/Session 4.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Session Notes/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,12 +195,13 @@
   },
   "active": "7ae280dd0efad71f",
   "lastOpenFiles": [
-    "People/Skyclaw.md",
-    "Session Notes/Session 3.md",
     "Map.md",
-    "Ideas.md",
-    "Session Notes/Session 1.md",
+    "People/Skyclaw.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md",
     "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "Ideas.md",
     "Lore.md",
     "Wider Setting Ideas.md",
     "Locations/Towns & Cities/Eastpath.md",
@@ -225,7 +226,6 @@
     "Locations/Geographic Features/East River.md",
     "Locations/Geographic Features/West River.md",
     "Locations/Geographic Features",
-    "People/March Lord Varen.md",
     "Untitled.canvas",
     "People/Untitled",
     "People",

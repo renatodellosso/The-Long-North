@@ -1,4 +1,4 @@
- * 6 days passed
+ * 6 days passed - Ended on the 24th
  * Herbert got bitten by a vampiric ferret but cast Lesser Restoration to remove the disease
  * Military from Eastpath knows the followers of Tavaneir are active in Fort Jordel and meeting soon in Lake Varneir
 	 * PCs know that a cult leader of Tavaneir meets at the shrine every couple days
