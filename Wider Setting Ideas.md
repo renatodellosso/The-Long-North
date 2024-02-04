@@ -15,6 +15,8 @@
 		* Kalashtar, who ruled the city of Daros
 		* High Elves, nomadic horse lords
 		* Dark Elves, who lived in the deep woods and provided ways for armies to move through that rough terrain
+	* Symbolized by a falcon
+		* 3 types of falcon: Northern, Eastern, Imperial
 * Lineages
 	* Kalashtar
 		* Psionically-gifted
