@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1707016715682,
+      "lastAccessed": 1708019890722,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -552,6 +552,91 @@
             0.4711426533674661
           ],
           "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49a92889f9e8",
+          "type": "Dungeon",
+          "loc": [
+            -1.2925069508651568,
+            1.313395603336732
+          ],
+          "link": "Vampiric Bandits",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "A group of bandits under Greenfang is secretly infected with vampirism and doesn't want her to know.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb1a98da68ba",
+          "type": "Dungeon",
+          "loc": [
+            -1.243115246295929,
+            1.54296875
+          ],
+          "link": "Ancient Mine Entrance",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b6bd868092a",
+          "type": "default",
+          "loc": [
+            -1.5975341796875,
+            1.1240234375
+          ],
+          "link": "Ferry",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b0a28891b5b",
+          "type": "default",
+          "loc": [
+            -0.8178466558456421,
+            0.9466797709465027
+          ],
+          "link": "Paladin's Watchtower",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "A group of imperial paladins, taking an eye as their symbol, has established a base here.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eab81a885a78",
+          "type": "Dungeon",
+          "loc": [
+            -1.1740966439247131,
+            1.1544922590255737
+          ],
+          "link": "Druidic Watchtower",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Greenfang has posted an apprentice druid to this watchtower.",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

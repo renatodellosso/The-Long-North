@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "522d29ecd704a231",
+        "id": "aab498614350ae53",
         "type": "tabs",
         "children": [
           {
-            "id": "6a36c6aa1168d331",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "12e77d09ff0542ce",
+            "id": "fb716ae52bc9249c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,19 +20,7 @@
             }
           },
           {
-            "id": "b298b4b7d572a167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32e6e848335f1237",
+            "id": "32115d8a2ddb1b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,62 +103,15 @@
             }
           },
           {
-            "id": "67181e8c79762824",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Session Notes/Session 5.md"
-              }
-            }
-          },
-          {
-            "id": "f96e46fd3786959d",
+            "id": "3f9a73bc4c14df78",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          },
-          {
-            "id": "780071fce3536732",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Session Notes/Session 5.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "153477a4da85d184",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Session Notes/Session 5.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a3c498529c6a4ea7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,22 +133,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b298b4b7d572a167",
+  "active": "fb716ae52bc9249c",
   "lastOpenFiles": [
     "Locations/Fort Jordel.md",
     "Map.md",
+    "Locations/Towns & Cities/Jordel's Hold.md",
+    "People/Skyclaw.md",
+    "People/Fjaxes.md",
+    "Untitled.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 4.md",
     "Wider Setting Ideas.md",
-    "People/Skyclaw.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
     "Ideas.md",
     "Lore.md",
     "Locations/Towns & Cities/Eastpath.md",
     "Bandit Camp.md",
-    "People/Fjaxes.md",
     "Locations/Towns & Cities/Hardstone.md",
     "Map.png",
     "Session Notes",
@@ -226,13 +160,11 @@
     "Locations/Towns & Cities/Lake Varneir.md",
     "Locations/Towns & Cities/Vajalharn.md",
     "Locations/Towns & Cities/Port Henefel.md",
-    "Locations/Towns & Cities/Jordel's Hold.md",
     "People/Hetein.md",
     "People/Tavaneir.md",
     "People/Shar-Anel.md",
     "People/Greenfang.md",
     "Shine to Tavaneir.md",
-    "Locations/Geographic Features/East River.md",
     "Locations/Geographic Features",
     "Untitled.canvas",
     "People/Untitled",
