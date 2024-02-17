@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1708019890722,
+      "lastAccessed": 1708196287636,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -310,7 +310,7 @@
         },
         {
           "id": "ID_48f9d9693bfa",
-          "type": "default",
+          "type": "Dungeon",
           "loc": [
             -1.368638320616931,
             0.9076378617724095
@@ -323,7 +323,7 @@
             0.43028757891432745,
             0.6488359445887673
           ],
-          "description": "Leader meets there every couple days",
+          "description": "Davarak meets there every couple days",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -426,7 +426,7 @@
             -1.0669921934604645,
             1.4435546398162842
           ],
-          "link": "Barrow w/ Gem",
+          "link": "Barrow (Looted)",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -523,7 +523,7 @@
             -1.238541704563323,
             0.8731111634722851
           ],
-          "link": "Vakar's Barrow",
+          "link": "Vakar's Barrow (Looted)",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -619,7 +619,7 @@
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "A group of imperial paladins, taking an eye as their symbol, has established a base here.",
+          "description": "Some imperial paladins resided here but were attacked by Fjaxes' forces.",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

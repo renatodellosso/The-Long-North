@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map.md",
+                "file": "People/Fjaxes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Fort Jordel.md",
+                "file": "Map.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,6 +110,45 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "0cfcd3333cb6cf21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d946d2034aa202b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c408c50ed0c1229",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Map.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -133,14 +173,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb716ae52bc9249c",
+  "active": "32115d8a2ddb1b1c",
   "lastOpenFiles": [
-    "Locations/Fort Jordel.md",
+    "People/Fjaxes.md",
+    "People/Greenfang.md",
+    "People/Tavaneir.md",
+    "Locations/Towns & Cities/Vajalharn.md",
+    "Ending the Campaign.md",
     "Map.md",
+    "Locations/Fort Jordel.md",
+    "Session Notes/Session 6.md",
     "Locations/Towns & Cities/Jordel's Hold.md",
     "People/Skyclaw.md",
-    "People/Fjaxes.md",
-    "Untitled.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 4.md",
@@ -158,13 +202,9 @@
     "PlayerMap.png",
     "PlayerMap.xcf",
     "Locations/Towns & Cities/Lake Varneir.md",
-    "Locations/Towns & Cities/Vajalharn.md",
     "Locations/Towns & Cities/Port Henefel.md",
     "People/Hetein.md",
-    "People/Tavaneir.md",
     "People/Shar-Anel.md",
-    "People/Greenfang.md",
-    "Shine to Tavaneir.md",
     "Locations/Geographic Features",
     "Untitled.canvas",
     "People/Untitled",

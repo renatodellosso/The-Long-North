@@ -7,6 +7,8 @@ cssclasses:
 Vajalharn is the capital of the North March. It is heavily fortified with high walls and a castle and serves as [[March Lord Varen]]'s base.
 
 Within Vajalharn is a general store, an inn and tavern, a blacksmith, Varen's castle, and numerous houses.
+
+Vajalharn is in ruins after a devastating attack by Greenfang's forces, but the imperial government is still hanging on. Varen is wounded and less popular than ever, but alive.
 # Vajalharn Rumors
 | 1d8 | Rumor |
 | ---- | ---- |
