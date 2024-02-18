@@ -55,6 +55,7 @@
 			* Views death in battle as the highest honor possible
 			* Encourages followers to donate food and money whenever armies are in the area
 		* Symbolized by a rising half-circle with 5 spears coming out
+		* Holy text is the Dala Aralos
 	* Kalashtar and Elves worship the sil'Ashatari
 		* Collective of all the Kalashtar spirits
 		* Symbolized by a ring with 2 skulls facing opposite direction at the bottom

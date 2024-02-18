@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Fjaxes.md",
+                "file": "Locations/Fort Jordel.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "932bb1fb56943a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,20 +187,20 @@
   },
   "active": "32115d8a2ddb1b1c",
   "lastOpenFiles": [
-    "People/Fjaxes.md",
-    "People/Greenfang.md",
-    "People/Tavaneir.md",
-    "Locations/Towns & Cities/Vajalharn.md",
-    "Ending the Campaign.md",
-    "Map.md",
     "Locations/Fort Jordel.md",
     "Session Notes/Session 6.md",
+    "Map.md",
+    "Wider Setting Ideas.md",
+    "People/Tavaneir.md",
+    "People/Fjaxes.md",
+    "People/Greenfang.md",
+    "Locations/Towns & Cities/Vajalharn.md",
+    "Ending the Campaign.md",
     "Locations/Towns & Cities/Jordel's Hold.md",
     "People/Skyclaw.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 4.md",
-    "Wider Setting Ideas.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
     "Ideas.md",
