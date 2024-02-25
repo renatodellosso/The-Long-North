@@ -1,7 +1,5 @@
 <img src="https://i.pinimg.com/736x/56/1c/a2/561ca2f2d9a15dc2e21452a2c95383d1.jpg">
 Fort Jordel lies at the top of a hill overlooking the town. It has been taken over by wild animals infected with vampirism by [[Tavaneir]]. **The stairs up lead to the roof.** The people of the town have taken refuge here.
-
-There's a **mimic** lurking around the premises.
 # Rooms
 **1. Entryway**
 The gate itself is long-gone, but the doorway is still intact and has been boarded over from the inside. 8 statues of knight line the pathway to the gate.

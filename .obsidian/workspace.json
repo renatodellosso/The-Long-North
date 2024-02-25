@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Fort Jordel.md",
+                "file": "Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,24 +23,8 @@
             "id": "32115d8a2ddb1b1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "932bb1fb56943a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 6.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ],
@@ -187,13 +171,16 @@
   },
   "active": "32115d8a2ddb1b1c",
   "lastOpenFiles": [
-    "Locations/Fort Jordel.md",
-    "Session Notes/Session 6.md",
+    "Session Notes/Session 7.md",
+    "People/Greenfang.md",
     "Map.md",
+    "The Party.md",
+    "Locations/Fort Jordel.md",
+    "Bandit Camp.md",
+    "Session Notes/Session 6.md",
     "Wider Setting Ideas.md",
     "People/Tavaneir.md",
     "People/Fjaxes.md",
-    "People/Greenfang.md",
     "Locations/Towns & Cities/Vajalharn.md",
     "Ending the Campaign.md",
     "Locations/Towns & Cities/Jordel's Hold.md",
@@ -206,7 +193,6 @@
     "Ideas.md",
     "Lore.md",
     "Locations/Towns & Cities/Eastpath.md",
-    "Bandit Camp.md",
     "Locations/Towns & Cities/Hardstone.md",
     "Map.png",
     "Session Notes",
@@ -215,8 +201,6 @@
     "PlayerMap.xcf",
     "Locations/Towns & Cities/Lake Varneir.md",
     "Locations/Towns & Cities/Port Henefel.md",
-    "People/Hetein.md",
-    "People/Shar-Anel.md",
     "Locations/Geographic Features",
     "Untitled.canvas",
     "People/Untitled",

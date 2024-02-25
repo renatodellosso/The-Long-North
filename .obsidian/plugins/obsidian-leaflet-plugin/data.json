@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1708196287636,
+      "lastAccessed": 1708830920551,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -312,16 +312,16 @@
           "id": "ID_48f9d9693bfa",
           "type": "Dungeon",
           "loc": [
-            -1.368638320616931,
-            0.9076378617724095
+            -1.3082031607627869,
+            0.9832031726837158
           ],
           "link": "Shrine to Tavaneir",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.43028757891432745,
-            0.6488359445887673
+            0.4661111337167245,
+            0.6201852021393952
           ],
           "description": "Davarak meets there every couple days",
           "minZoom": null,
@@ -332,14 +332,17 @@
           "id": "ID_f8ca2a196a7b",
           "type": "default",
           "loc": [
-            -1.0667966604232788,
-            1.2484374046325684
+            -0.975781261920929,
+            1.1511718034744263
           ],
           "link": "Yeti Sighting",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.5457407068323206,
+            0.46259259824399596
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -443,16 +446,16 @@
           "id": "ID_080ac8d9c8f8",
           "type": "The Party",
           "loc": [
-            -1.0335912318831542,
-            1.3622854418471868
+            -1.4703125059604645,
+            0.9585937261581421
           ],
           "link": "The Party",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.645824209468296,
-            0.4899988062260879
+            0.45444443314163774,
+            0.6970370398627387
           ],
           "description": null,
           "minZoom": null,
@@ -500,16 +503,16 @@
           "id": "ID_398869caca09",
           "type": "Dungeon",
           "loc": [
-            -1.0614888209683941,
-            1.025304866437973
+            -1.029296875,
+            1.003515601158142
           ],
           "link": "Bandit Camp",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4860704552002242,
-            0.5032243299405721
+            0.47574072943793405,
+            0.487962962962963
           ],
           "description": "Leader knows that Greenfang plans to lead an attack on Vajalharn on Fall 25",
           "minZoom": null,
@@ -611,14 +614,17 @@
           "id": "ID_3b0a28891b5b",
           "type": "default",
           "loc": [
-            -0.8178466558456421,
-            0.9466797709465027
+            -0.7933593690395355,
+            0.9300781488418579
           ],
           "link": "Paladin's Watchtower",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.44092593722873263,
+            0.37611110828540945
+          ],
           "description": "Some imperial paladins resided here but were attacked by Fjaxes' forces.",
           "minZoom": null,
           "maxZoom": null,
@@ -637,6 +643,23 @@
           "command": false,
           "percent": null,
           "description": "Greenfang has posted an apprentice druid to this watchtower.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bdbe97b180a",
+          "type": "Dungeon",
+          "loc": [
+            -1.4795654118061066,
+            0.9740233421325684
+          ],
+          "link": "Greenfang's Camp",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

@@ -11,3 +11,5 @@ Greenfang is constantly on the move with her camp throughout the woods, but avoi
 Her forces are battling Tavaneir's cults in the central woods.
 
 If alerted to possibility of ending the night, Greenfang would support it to weaken Tavaneir's forces.
+
+She is quite rude and blunt.
