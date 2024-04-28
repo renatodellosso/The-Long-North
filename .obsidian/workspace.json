@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "Session Notes/Session 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f38c1c959af968db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Towns & Cities/Hardstone.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "Session Notes/Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "Session Notes/Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 8.md"
+                "file": "Session Notes/Session 9.md"
               }
             }
           }
@@ -176,17 +188,19 @@
   "active": "fb716ae52bc9249c",
   "lastOpenFiles": [
     "Map.md",
+    "Session Notes/Session 9.md",
+    "Locations/Towns & Cities/Hardstone.md",
+    "Session Notes/Session 7.md",
     "Session Notes/Session 8.md",
+    "People/Fjaxes.md",
     "Shrine to Tavaneir.md",
     "People/Tavaneir.md",
-    "Session Notes/Session 7.md",
     "People/Greenfang.md",
     "The Party.md",
     "Locations/Fort Jordel.md",
     "Bandit Camp.md",
     "Session Notes/Session 6.md",
     "Wider Setting Ideas.md",
-    "People/Fjaxes.md",
     "Locations/Towns & Cities/Vajalharn.md",
     "Ending the Campaign.md",
     "Locations/Towns & Cities/Jordel's Hold.md",
@@ -199,10 +213,8 @@
     "Ideas.md",
     "Lore.md",
     "Locations/Towns & Cities/Eastpath.md",
-    "Locations/Towns & Cities/Hardstone.md",
     "Map.png",
     "Session Notes",
-    "Player Characters.md",
     "PlayerMap.png",
     "PlayerMap.xcf",
     "Locations/Geographic Features",
