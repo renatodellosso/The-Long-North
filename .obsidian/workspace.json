@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "Session Notes/Session 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "Session Notes/Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "Session Notes/Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 9.md"
+                "file": "Session Notes/Session 10.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   "active": "fb716ae52bc9249c",
   "lastOpenFiles": [
     "Map.md",
+    "Session Notes/Session 10.md",
     "Session Notes/Session 9.md",
     "Locations/Towns & Cities/Hardstone.md",
     "Session Notes/Session 7.md",
@@ -212,7 +213,6 @@
     "Session Notes/Session 1.md",
     "Ideas.md",
     "Lore.md",
-    "Locations/Towns & Cities/Eastpath.md",
     "Map.png",
     "Session Notes",
     "PlayerMap.png",
