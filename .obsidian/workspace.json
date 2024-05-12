@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "fb716ae52bc9249c",
+            "id": "d421e70cf06ee78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "People/Skyclaw.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f38c1c959af968db",
+            "id": "fb716ae52bc9249c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Towns & Cities/Hardstone.md",
+                "file": "Session Notes/Session 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "Session Notes/Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "Session Notes/Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 10.md"
+                "file": "Session Notes/Session 11.md"
               }
             }
           }
@@ -187,8 +187,10 @@
   },
   "active": "fb716ae52bc9249c",
   "lastOpenFiles": [
-    "Map.md",
+    "People/Skyclaw.md",
+    "Session Notes/Session 11.md",
     "Session Notes/Session 10.md",
+    "Map.md",
     "Session Notes/Session 9.md",
     "Locations/Towns & Cities/Hardstone.md",
     "Session Notes/Session 7.md",
@@ -205,14 +207,12 @@
     "Locations/Towns & Cities/Vajalharn.md",
     "Ending the Campaign.md",
     "Locations/Towns & Cities/Jordel's Hold.md",
-    "People/Skyclaw.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 3.md",
     "Session Notes/Session 4.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
     "Ideas.md",
-    "Lore.md",
     "Map.png",
     "Session Notes",
     "PlayerMap.png",
