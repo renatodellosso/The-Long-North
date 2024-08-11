@@ -1,5 +1,5 @@
 * Started on the 71st, ended on the 72nd
-* It begun to snow
+* It began to snow
 * Fjaxes died
 * Prepared for fight against Skyclaw
 * End of chapter 1

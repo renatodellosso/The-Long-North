@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d421e70cf06ee78c",
+            "id": "461ae001ddcbe69c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "fb716ae52bc9249c",
+            "id": "d421e70cf06ee78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 11.md",
+                "file": "Session Notes/Session 12.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 11.md",
+                "file": "Session Notes/Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 11.md",
+                "file": "Session Notes/Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 11.md"
+                "file": "Session Notes/Session 12.md"
               }
             }
           }
@@ -185,14 +185,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb716ae52bc9249c",
+  "active": "d421e70cf06ee78c",
   "lastOpenFiles": [
+    "Map.md",
+    "Stone Circle.md",
+    "Session Notes/Session 12.md",
     "People/Skyclaw.md",
     "Session Notes/Session 11.md",
-    "Session Notes/Session 10.md",
-    "Map.md",
-    "Session Notes/Session 9.md",
+    "Player Characters.md",
+    "Ending the Campaign.md",
+    "Templates/Banner.md",
+    "Chapter 2 Planning.md",
+    "People/Shar-Anel.md",
     "Locations/Towns & Cities/Hardstone.md",
+    "Locations/Towns & Cities/Eastpath.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 9.md",
     "Session Notes/Session 7.md",
     "Session Notes/Session 8.md",
     "People/Fjaxes.md",
@@ -205,14 +213,6 @@
     "Session Notes/Session 6.md",
     "Wider Setting Ideas.md",
     "Locations/Towns & Cities/Vajalharn.md",
-    "Ending the Campaign.md",
-    "Locations/Towns & Cities/Jordel's Hold.md",
-    "Session Notes/Session 5.md",
-    "Session Notes/Session 3.md",
-    "Session Notes/Session 4.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 1.md",
-    "Ideas.md",
     "Map.png",
     "Session Notes",
     "PlayerMap.png",
