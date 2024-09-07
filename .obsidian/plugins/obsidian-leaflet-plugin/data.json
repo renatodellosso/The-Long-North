@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1723409376556,
+      "lastAccessed": 1725732258631,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -449,16 +449,16 @@
           "id": "ID_080ac8d9c8f8",
           "type": "The Party",
           "loc": [
-            -1.3125,
-            0.3859374523162842
+            -1.6500999483008056,
+            0.924763053553053
           ],
           "link": "The Party",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.18296294035734953,
-            0.6222222222222222
+            0.438406188351077,
+            0.7822696051203819
           ],
           "description": null,
           "minZoom": null,
