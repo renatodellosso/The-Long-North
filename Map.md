@@ -13,6 +13,7 @@ defaultZoom: 7.5
 zoomDelta: 0.5
 ```
 # Map Distance Conversion:
+
 | Map    | Actual | Travel   |
 | ------ | ------ | -------- |
 | 1 mi   | 166 mi | 7 days   |

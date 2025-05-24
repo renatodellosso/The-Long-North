@@ -164,7 +164,7 @@
     },
     {
       "id": "northern-march-map",
-      "lastAccessed": 1725732258631,
+      "lastAccessed": 1748052789721,
       "markers": [
         {
           "id": "ID_885879097a9b",
@@ -449,16 +449,16 @@
           "id": "ID_080ac8d9c8f8",
           "type": "The Party",
           "loc": [
-            -1.6500999483008056,
-            0.924763053553053
+            -0.3535533905932738,
+            0.9954738328241441
           ],
           "link": "The Party",
           "layer": "%5B%5BMap.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.438406188351077,
-            0.7822696051203819
+            0.4719283355610757,
+            0.1676104962812557
           ],
           "description": null,
           "minZoom": null,
@@ -665,6 +665,57 @@
             0.4388888888888889,
             0.6929629855685764
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a098a896b38",
+          "type": "default",
+          "loc": [
+            -1.0284181833267212,
+            0.35000014305114746
+          ],
+          "link": "Divine Equipment",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08392be8387b",
+          "type": "default",
+          "loc": [
+            -0.21140699055040107,
+            0.2643364359032312
+          ],
+          "link": "Corel Reef",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_186b7be9c829",
+          "type": "Dungeon",
+          "loc": [
+            -0.12781794668886665,
+            1.0363535784814066
+          ],
+          "link": "Tavaneir's Fortress",
+          "layer": "%5B%5BMap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
