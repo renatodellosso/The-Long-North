@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes by Players.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes by Players"
+              "title": "README"
             }
           },
           {
@@ -195,8 +195,9 @@
   },
   "active": "ca75605b3bf9e8ce",
   "lastOpenFiles": [
-    "PCs.md",
     "Notes by Players.md",
+    "README.md",
+    "PCs.md",
     "People/Tavaneir.md",
     "Map.md",
     "Session Notes/Ending Notes.md",
@@ -220,7 +221,6 @@
     "Session Notes/Session 13.md",
     "Session Notes/Session 1.md",
     "Stone Circle.md",
-    "People/Skyclaw.md",
     "Map.png",
     "Session Notes",
     "PlayerMap.png",
