@@ -5,3 +5,5 @@ The campaign began when Tavaneir, the god of blood, stole the sun, plunging the 
 Along the way, the players allied with a Mindflayer, implanted a Mindflayer tadpole in a dragon, slew the dragon, killed the Mindflayer, joined up with a druid, staged a coup, ventured into the Divine Realm, and crawled through a god's sewer.
 
 In the end, the players won, slaying Tavaneir, bringing back the sun, and restoring order to the North March.
+
+This was the second campaign I ran to completion and the first homebrew campaign I completed.
